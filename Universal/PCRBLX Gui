@@ -1,1 +1,1 @@
-"--[[\r\n\tWARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!\r\n]]\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/PCRBLX/pcrblx-loves-you/refs/heads/main/pcrblxlovesyou.lua\",true))()"
+loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PCRBLX/pcrblx-loves-you/refs/heads/main/pcrblxlovesyou.lua\",true))()"
