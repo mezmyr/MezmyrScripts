@@ -1,0 +1,1 @@
+"--[[\r\n\tWARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!\r\n]]\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()"
